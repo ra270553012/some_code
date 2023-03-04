@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "this script is from github"
+echo "Github Hook Trigger Check"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "completed"
